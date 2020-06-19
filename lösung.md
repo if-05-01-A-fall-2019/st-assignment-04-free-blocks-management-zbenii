@@ -88,7 +88,7 @@ Benjamin Besic 3AHIF
 |            |  <mark></mark>    |
 
 ### f) Four blocks(23456,8345345,56 and 634534) are freed
-| Block      | <mark>634534</mark>  | 18     |
+| Block      | <mark>56</mark>  | 18     |
 |------------|---------|--------|
 | Next Block | 18      | 0      |
 |            |         | 24353  |
@@ -99,7 +99,7 @@ Benjamin Besic 3AHIF
 |            |         | 34535  |
 |            |         | 23456  |
 |            |         | 8345345|
-|            |         | 56     |
+|            |         | 634534 |
 
 
 ## 2.)
